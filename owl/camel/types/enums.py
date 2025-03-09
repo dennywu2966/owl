@@ -156,6 +156,7 @@ class ModelType(UnifiedModelType, Enum):
     YI_LARGE = "yi-large"
     YI_MEDIUM = "yi-medium"
     YI_LARGE_TURBO = "yi-large-turbo"
+    
     YI_VISION = "yi-vision"
     YI_MEDIUM_200K = "yi-medium-200k"
     YI_SPARK = "yi-spark"
